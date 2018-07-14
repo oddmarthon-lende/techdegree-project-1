@@ -1,0 +1,16 @@
+{
+  "name": "techdegree-project-1",
+  "version": "1.0.0",
+  "description": "Techdegree Project 1",
+  "main": "index.html",
+  "scripts": {
+    "start" : "npm run lite",
+    "lite" : "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Odd Marthon Lende",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
